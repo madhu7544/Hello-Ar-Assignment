@@ -42,9 +42,12 @@
 }
 
 .delete-icon {
-  height: 30px;
-  width: 30px;
+  height: 40px;
+  width: 40px;
   cursor: pointer;
+  background-color: lightgreen;
+  padding: 10px;
+  border-radius: 20px;
 }
 .table-row {
   border: solid black;
